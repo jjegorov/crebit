@@ -1,3 +1,3 @@
-INSERT INTO t
+INSERT INTO t(c1, c2, c3)
 VALUES(1, 2, 3);
 SELECT * FROM dual;
